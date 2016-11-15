@@ -1,5 +1,5 @@
 # jogo-dado
 
 #1
-mojombo#1
-mojombo/github-flavored-markdown#1
+gitlab.com#1
+gitlab.com/leonardo.rsil/HackaFpu.git#1
