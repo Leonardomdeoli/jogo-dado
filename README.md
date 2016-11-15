@@ -7,6 +7,9 @@ Este projeto está sendo desenvolvido utilizando metodologia ágio
 ##### Como baixar o projeto.
 git clone https://gitlab.com/leonardo.rsil/HackaFpu.git
 
+##### Atualizar seu repositório local
+git pull
+
 ##### Verificar alterações no repositório
 git status
 
@@ -34,9 +37,6 @@ git checkout master
 ##### Retorne para a brach funcionalidade_x
 git checkout funcionalidade_x
 
-##### Atualizar seu repositório local com a mais nova versão
-git pull
-
 ##### Fazer merge de um outro branch ao seu branch ativo (ex. master)
 git merge funcionalidade_x
 
@@ -46,5 +46,3 @@ git diff branch_origem branch_destino
 ##### Remover todas as alterações e commits locais, recupere o histórico mais recente do servidor
 git fetch origin
 git reset --hard origin/master
-
-
