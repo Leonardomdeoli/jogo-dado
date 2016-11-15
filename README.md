@@ -1,10 +1,11 @@
 # jogo-dado
 
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+
+### Como baixar o projeto.
+
+**git clone https://gitlab.com/leonardo.rsil/HackaFpu.git**
+
+
+### Adicionar mudanças ao Index
+** git add  * **
