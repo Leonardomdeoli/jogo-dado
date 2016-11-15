@@ -6,16 +6,12 @@ Este projeto está sendo desenvolvido utilizando metodologia ágio
 
 #### Como baixar o projeto.
 git clone https://gitlab.com/leonardo.rsil/HackaFpu.git
-
 #### Adicionar mudanças ao Index
 git add *
-
 #### Fazer um commit
  git comm it -m "comentários das alterações"
-
 #### Criar um novo branch chamado "funcionalidade-x"
 git checkout -b funcionalidade-x
-
 #### Apagar a branch.
 git branch -d funcionalidade-x
 
