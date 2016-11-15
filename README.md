@@ -1,5 +1,5 @@
 # Projeto E-Commerc HackaFpu
-
+![extreme go horse](http://helio.loureiro.eng.br/images/stories/2013/extreme-go-horse-xgh.png)
 Este projeto está sendo desenvolvido utilizando metodologia ágio
 [extreme go horse.](http://www.gohorseprocess.com.br/extreme-go-horse-(xgh) "Clique e acesse agora!" )
 
